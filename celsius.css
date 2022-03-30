@@ -1,0 +1,56 @@
+.box {
+    display: flex;
+    justify-content: center;
+    padding-top: 0px;
+}
+
+.container {
+    margin-top: 200px;
+    padding: 10px 200px 10px 200px;
+    box-shadow: 30px 0px 40px rgba(0, 0, 0, 0.1), -30px 0px 40px rgba(0, 0, 0, 0.1);
+}
+
+.container h1 {
+    text-align: center;
+}
+
+.navbar {
+    background-color: black;
+    color: white;
+}
+
+.navbar h2 {
+    padding: 15px 15px 10px 10px;
+}
+
+.box1 {
+    display: flex;
+    justify-content: center;
+    padding-top: 0px;
+}
+
+.row h4 {
+    text-align: center;
+    margin: 0px;
+    margin-top: 50px;
+}
+
+.column h4 {
+    text-align: center;
+    margin: 0px;
+    margin-top: 20px;
+}
+
+.end {
+    text-align: center;
+    margin-top: 100px;
+}
+
+.end a {
+    text-decoration: none;
+    color: black;
+}
+
+.end a:hover {
+    color: gray;
+}
